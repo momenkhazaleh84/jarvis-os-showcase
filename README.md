@@ -1,5 +1,6 @@
 # Jarvis OS
 
+![Jarvis OS Showcase](assets/jarvis-os-showcase.png)
 **A safety-first multi-agent AI assistant and automation platform for structured project and task execution.**
 
 Jarvis OS is a personal AI operating system designed to turn high-level goals into structured, auditable workflows. The user interacts with a Jarvis leader, which plans work, separates agent-executable tasks from user-owned tasks, delegates safe work to specialist agents, requests approval for sensitive actions, verifies results, and records execution evidence.
